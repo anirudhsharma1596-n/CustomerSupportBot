@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pyc
+chat_log.json
+consistency_log.json
